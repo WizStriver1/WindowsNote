@@ -9,3 +9,11 @@ To start, you should go to your desktop, right click, and make a new folder. The
 # Show Desktop Button
 
 Taskbar Setting > Use peek to preview the desktop.
+
+# Shake
+
+If you have a display full of windows, clear the clutter by grabbing the top of the window you do like and "shaking" it to minimize all the other windows. Suddenly having shaker's remorse? Shake again and the windows will come back.
+
+# Revamped Screen Capture Tool
+
+That is a snipping toolbar which you can open by pressing the Windows key + Shift + S hotkey
