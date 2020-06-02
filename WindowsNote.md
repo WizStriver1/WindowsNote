@@ -17,3 +17,15 @@ If you have a display full of windows, clear the clutter by grabbing the top of 
 # Revamped Screen Capture Tool
 
 That is a snipping toolbar which you can open by pressing the Windows key + Shift + S hotkey
+
+# nssm install service
+
+```
+nssm.exe install <servicesname>
+```
+
+# uninstall service
+
+```
+sc.exe delete "YourServiceName"
+```
